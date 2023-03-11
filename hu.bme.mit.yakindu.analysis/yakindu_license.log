@@ -1,0 +1,12 @@
+febr. 08, 2017 11:40:42 DU com.yakindu.licmgmt.core.LoggingHelper debug
+FINE: Property file does not exist: D:\Eclipse\Workspace\retelab\.metadata\.plugins\org.eclipse.pde.core\pde-junit\ylm.properties
+febr. 08, 2017 11:40:42 DU com.yakindu.licmgmt.core.LoggingHelper debug
+FINE: LMX setting set: LMX_OPT_LICENSE_PATH=D:\Eclipse\IDE\sctpro-win32.win32.x86_64\yakindu-sctpro;D:\Eclipse\Workspace\retelab\hu.bme.mit.yakindu.analysis;C:\Users\oszka\.YAKINDU
+febr. 08, 2017 11:40:42 DU com.yakindu.licmgmt.core.LoggingHelper debug
+FINE: LMX setting set: LMX_OPT_TRIAL_DAYS=31
+febr. 08, 2017 11:40:42 DU com.yakindu.licmgmt.core.LoggingHelper debug
+FINE: Environment variable set: LMX_AUTOMATIC_SERVER_DISCOVERY=
+febr. 08, 2017 11:40:42 DU com.yakindu.licmgmt.core.LoggingHelper debug
+FINE: Environment variable set: LMX_BORROW=0
+febr. 08, 2017 11:40:43 DU com.yakindu.licmgmt.core.LoggingHelper info
+INFO: License checkout performed for com_yakindu_sct_domain_c

@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Analysis
+Bundle-SymbolicName: hu.bme.mit.yakindu.analysis
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: hu.bme.mit.model2gml,
+ org.junit,
+ org.eclipse.core.runtime,
+ org.yakindu.sct.model.sgraph,
+ org.yakindu.sct.model.stext,
+ org.eclipse.gmf.runtime.notation,
+ org.yakindu.sct.domain.generic;bundle-version="2.9.2",
+ org.apache.log4j;bundle-version="1.2.15",
+ org.eclipse.emf.transaction;bundle-version="1.9.1"
