@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.cdt.gdb:9.5.3.201809121146"/>
+		<item value="org.eclipse.cdt:9.5.3.201809121146"/>
+		<item value="org.eclipse.emf.common:2.15.0.v20180723-1316"/>
+		<item value="org.eclipse.emf.ecore:2.15.0.v20180722-1159"/>
+		<item value="org.eclipse.epp.mpc:1.7.2.v20180829-1931"/>
+		<item value="org.eclipse.help:2.2.300.v20180906-0745"/>
+		<item value="org.eclipse.jdt:3.15.0.v20180906-0745"/>
+		<item value="org.eclipse.pde:3.13.200.v20180906-0745"/>
+		<item value="org.eclipse.platform:4.9.0.v20180906-1121"/>
+		<item value="org.eclipse.rcp:4.9.0.v20180906-1121"/>
+		<item value="org.eclipse.recommenders.news.rcp.feature:2.5.4.v20180909-1132"/>
+		<item value="org.eclipse.userstorage:1.1.0.v20170526-1605"/>
+		<item value="org.eclipse.xtend.sdk:2.15.0.v20180916-1232"/>
+		<item value="org.eclipse.xtext.ui:2.15.0.v20180916-1232"/>
+		<item value="org.eclipse.xtext.xbase.lib:2.15.0.v20180916-1132"/>
+		<item value="org.yakindu.base.gmf.runtime:3.5.2.201902261347"/>
+		<item value="org.yakindu.base.xtext.utils.gmf:3.5.2.201902261347"/>
+		<item value="org.yakindu.base.xtext.utils.jface:3.5.2.201902261347"/>
+		<item value="org.yakindu.sct.generator.java:3.5.2.201902261347"/>
+		<item value="org.yakindu.sct:3.5.2.201902261347"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/cloud/Documents/REMO_WS/Rendszertervezes_MIT1/hu.bme.mit.model2gml"/>
+			<item value="/home/cloud/Documents/REMO_WS/Rendszertervezes_MIT1/hu.bme.mit.yakindu.analysis"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

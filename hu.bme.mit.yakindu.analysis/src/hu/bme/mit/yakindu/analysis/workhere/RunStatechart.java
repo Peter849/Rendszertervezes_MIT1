@@ -37,7 +37,7 @@ public class RunStatechart {
 		String line = input.nextLine();
 		while(!line.equals("exit")) {
 			if(line.equals("start")) {
-				s.raiseStart();
+				s.raiseBegin();
 				s.runCycle();
 				print(s);
 			}else if(line.equals("white")) {
@@ -61,7 +61,7 @@ public class RunStatechart {
 
 	//3.6.
 	public static void print(IExampleStatemachine s) {
-		System.out.println("W = " + s.getSCInterface().getWhiteTime());
-		System.out.println("B = " + s.getSCInterface().getBlackTime());
+		System.out.println("W = " + s.getSCInterface().getLightTime());
+		System.out.println("B = " + s.getSCInterface().getDarkTime());
 	}
 }

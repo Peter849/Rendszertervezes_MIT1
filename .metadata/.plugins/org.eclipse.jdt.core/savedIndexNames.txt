@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+/home/cloud/Documents/REMO_WS/Rendszertervezes_MIT1/.metadata/.plugins/org.eclipse.jdt.core
+1360610428.index
+2145164506.index
+4143638656.index
+1156987353.index
+1979613898.index
+280277260.index
+3306604360.index
+3327487036.index

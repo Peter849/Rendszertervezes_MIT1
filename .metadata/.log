@@ -1,0 +1,18 @@
+!SESSION 2023-03-11 22:40:38.642 -----------------------------------------------
+eclipse.buildId=3.5.2.201902261438
+java.version=11.0.6
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.app 0 0 2023-03-11 22:40:42.041
+!MESSAGE Product com.yakindu.sct.products.product could not be found.
+!SESSION 2023-03-12 12:27:00.676 -----------------------------------------------
+eclipse.buildId=3.5.2.201902261438
+java.version=11.0.6
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/cloud/Documents/REMO_WS/Rendszertervezes_MIT1 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.app 0 0 2023-03-12 12:27:02.465
+!MESSAGE Product com.yakindu.sct.products.product could not be found.
